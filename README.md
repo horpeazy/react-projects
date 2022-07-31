@@ -7,6 +7,7 @@ All of the following folders are projects to demonstrate the concepts:
 
 | Project name | Description |
 | ------------ | ----------- |
-| [`01-birthday-reminder`](https://github.com/horpeazy/) | This project demonstrates the react hook useState, more details can be found in README section of the repo |
+| [`01-birthday-reminder`](https://github.com/horpeazy/react-projects/tree/main/01-birthday_reminder) | This project demonstrates the react hook useState, more details can be found in README section of the repo |
+| [`02-tours-reminder`](https://github.com/horpeazy/react-projects/tree/main/02-tours) | This project demonstrates the react hook useEffect, more details can be found in README section of the repo |
 
 
