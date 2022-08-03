@@ -1,8 +1,8 @@
-# Tours
+# Reviews
 
 ## About
 
-This is a react application to demonstrate how the react hook \useState can be used to manage state between renders. It displays a review on a page at a time and there are buttons to request for the nect or previous review and the buttons fetches them accoridngly managing the state of the application between renders. It also has a feature to select a random review using the built in javascript library. To test the application locally, follow the instructions below, there is a link to the site hosted on Netlify at the botton of this page.
+This is a react application to demonstrate how the react hook useState can be used to manage state between renders. It displays a review on a page at a time and there are buttons to request for the nect or previous review and the buttons fetches them accoridngly managing the state of the application between renders. It also has a feature to select a random review using the built in javascript library. To test the application locally, follow the instructions below, there is a link to the site hosted on Netlify at the botton of this page.
 
 ### Installing Dependencies
 
