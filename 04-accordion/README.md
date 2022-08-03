@@ -2,7 +2,7 @@
 
 ## About
 
-This is a react application to demonstrate how the react hook useEffect and conditional rendering to display certain components under various conditions. This generally helps to bring more live to the pages. A very common use case is the accordions, and that is the usecase here. To test the application locally, follow the instructions below, there is a link to the site hosted on Netlify at the botton of this page.
+This is a react application to demonstrate how the react hook useEffect and conditional rendering can be used to display certain components under various conditions. This generally helps to bring more live to the pages. A very common use case is the accordions, and that is the usecase here. To test the application locally, follow the instructions below, there is a link to the site hosted on Netlify at the botton of this page.
 
 ### Installing Dependencies
 
