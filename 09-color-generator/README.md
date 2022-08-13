@@ -1,8 +1,8 @@
-# Lorem Ipsum
+# Color Generator
 
 ## About
 
-This is a react application that demonstrates hpw forms are used in react to build dynamic interface. To test the application locally, follow the instructions below, there is a link to the site hosted on Netlify at the botton of this page.
+This is a react application that demonstrates how forms are used in react to build dynamic user interface. To test the application locally, follow the instructions below, there is a link to the site hosted on Netlify at the botton of this page.
 
 ### Installing Dependencies
 
